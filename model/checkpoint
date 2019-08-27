@@ -1,0 +1,2 @@
+model_checkpoint_path: "cov_sum.ckpt"
+all_model_checkpoint_paths: "cov_sum.ckpt"
